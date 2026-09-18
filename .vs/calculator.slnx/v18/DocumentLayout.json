@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F72B2D-4515-4FCF-9616-40500D5B2BA0}|calculator.vcxproj|C:\\Users\\User\\OneDrive\\calculator\\calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72F72B2D-4515-4FCF-9616-40500D5B2BA0}|calculator.vcxproj|solutionrelative:calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculator.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\calculator\\calculator.cpp",
+              "RelativeDocumentMoniker": "calculator.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\calculator\\calculator.cpp",
+              "RelativeToolTip": "calculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-18T16:20:20.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
